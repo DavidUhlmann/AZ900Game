@@ -1,0 +1,1308 @@
+[
+  {
+    "id": "Azure AI Metrics Advisor",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Anomaly detection and root cause analysis service."
+  },
+  {
+    "id": "Azure AI Content Safety",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "AI-powered content moderation service."
+  },
+  {
+    "id": "Azure AI Video Indexer",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "AI service for extracting insights from videos."
+  },
+  {
+    "id": "Azure AI Bot Service",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for building and deploying AI-powered bots."
+  },
+  {
+    "id": "Azure AI Search",
+    "Category": [
+      "AI + machine learning",
+      "Mobile Applications",
+      "Web Application"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "AI-powered search service for web and mobile apps."
+  },
+  {
+    "id": "API Management",
+    "Category": [
+      "Integration",
+      "Mobile Applications"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Full lifecycle API management solution."
+  },
+  {
+    "id": "Azure AI Services",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Suite of AI services for various applications."
+  },
+  {
+    "id": "Azure AI Immersive Reader",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "AI service for enhancing reading experiences."
+  },
+  {
+    "id": "AI Anomaly Detector",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Detect anomalies in time-series data."
+  },
+  {
+    "id": "Content Moderator",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Content moderation API."
+  },
+  {
+    "id": "Azure AI Custom Vision",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Custom vision service."
+  },
+  {
+    "id": "Azure AI Document Intelligence",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "AI service for extracting insights from documents."
+  },
+  {
+    "id": "AI Language",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "AI service for natural language processing."
+  },
+  {
+    "id": "Azure AI Personalizer",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Personalization service."
+  },
+  {
+    "id": "Azure AI Speech",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Speech recognition and synthesis service."
+  },
+  {
+    "id": "Azure AI Translator",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Real-time translation service."
+  },
+  {
+    "id": "Azure AI Vision",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Computer vision service."
+  },
+  {
+    "id": "Health Bot",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Health bot service."
+  },
+  {
+    "id": "App Center",
+    "Category": [
+      "DevOps",
+      "Mobile Applications"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Continuous integration and delivery service for mobile and desktop apps."
+  },
+  {
+    "id": "Microsoft Genomics",
+    "Category": [
+      "AI + machine learning"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Genomic analysis service."
+  },
+  {
+    "id": "Azure Synapse Analytics",
+    "Category": [
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Analytics service for big data and data warehousing."
+  },
+  {
+    "id": "App Service",
+    "Category": [
+      "Compute",
+      "Web Application"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Platform for building, deploying, and scaling web apps and APIs."
+  },
+  {
+    "id": "HDInsight",
+    "Category": [
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Fully managed Apache Hadoop, Spark, and other big data analytics services."
+  },
+  {
+    "id": "Application Gateway",
+    "Category": [
+      "Security",
+      "Web Application"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Web traffic load balancer."
+  },
+  {
+    "id": "Azure Stream Analytics",
+    "Category": [
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Real-time analytics on streaming data."
+  },
+  {
+    "id": "Data Lake Analytics",
+    "Category": [
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Distributed analytics service."
+  },
+  {
+    "id": "Azure Analysis Services",
+    "Category": [
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Enterprise-grade analytics engine."
+  },
+  {
+    "id": "Event Hubs",
+    "Category": [
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Event ingestion service."
+  },
+  {
+    "id": "Azure Data Explorer",
+    "Category": [
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Fast and highly scalable data exploration service."
+  },
+  {
+    "id": "Azure Data Share",
+    "Category": [
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Simple and secure data sharing service."
+  },
+  {
+    "id": "Microsoft Graph Data Connect",
+    "Category": [
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service to connect Microsoft Graph data to business intelligence and analytics solutions."
+  },
+  {
+    "id": "Azure Chaos Studio",
+    "Category": [
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for chaos engineering experimentation."
+  },
+  {
+    "id": "Azure Operator Index",
+    "Category": [
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Index of Azure operator partners and their services."
+  },
+  {
+    "id": "Virtual Machines",
+    "Category": [
+      "Compute"
+    ],
+    "shared Responsibility model": "IaaS",
+    "Short explanation": "Create and manage virtual machines in Azure."
+  },
+  {
+    "id": "Virtual Machine Scale Sets",
+    "Category": [
+      "Compute"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Scalable VM deployment and management service."
+  },
+  {
+    "id": "Azure Spot Virtual Machines",
+    "Category": [
+      "Compute"
+    ],
+    "shared Responsibility model": "IaaS",
+    "Short explanation": "Virtual machines at a discounted rate."
+  },
+  {
+    "id": "Azure Container Instances",
+    "Category": [
+      "Compute",
+      "Containers"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Run containers without managing servers."
+  },
+  {
+    "id": "Azure Functions",
+    "Category": [
+      "Compute",
+      "Containers",
+      "Integration"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Event-driven serverless compute service."
+  },
+  {
+    "id": "Azure Data Factory",
+    "Category": [
+      "Analytics",
+      "Integration"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Fully managed ETL service."
+  },
+  {
+    "id": "Batch",
+    "Category": [
+      "Compute"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Cloud-based job scheduling service."
+  },
+  {
+    "id": "Azure Dedicated Host",
+    "Category": [
+      "Compute"
+    ],
+    "shared Responsibility model": "IaaS",
+    "Short explanation": "Physical servers dedicated to your organization."
+  },
+  {
+    "id": "Azure Database for PostgreSQL",
+    "Category": [
+      "Databases",
+      "Hybrid + multicloud"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Managed PostgreSQL database service."
+  },
+  {
+    "id": "Azure Red Hat OpenShift",
+    "Category": [
+      "Containers"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Fully managed OpenShift service."
+  },
+  {
+    "id": "Azure Container Apps",
+    "Category": [
+      "Containers"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service to deploy and manage containers using Kubernetes."
+  },
+  {
+    "id": "Web App for Containers",
+    "Category": [
+      "Containers"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Run containerized web apps."
+  },
+  {
+    "id": "Azure Databricks",
+    "Category": [
+      "AI + machine learning",
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Unified analytics platform based on Apache Spark."
+  },
+  {
+    "id": "Azure Container Registry",
+    "Category": [
+      "Containers"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Store and manage container images across all types of deployments."
+  },
+  {
+    "id": "Azure Cosmos DB",
+    "Category": [
+      "Databases"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Globally distributed, multi-model database service."
+  },
+  {
+    "id": "Azure SQL Database",
+    "Category": [
+      "Databases"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Fully managed relational database service."
+  },
+  {
+    "id": "Azure Database for MySQL",
+    "Category": [
+      "Databases"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Managed MySQL database service."
+  },
+  {
+    "id": "Azure Database for MariaDB",
+    "Category": [
+      "Databases"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Managed MariaDB database service."
+  },
+  {
+    "id": "Azure Cache for Redis",
+    "Category": [
+      "Databases"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Fully managed Redis cache."
+  },
+  {
+    "id": "Azure DDoS Protection",
+    "Category": [
+      "Networking ",
+      "Security"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Distributed denial of service (DDoS) protection."
+  },
+  {
+    "id": "Azure DevOps Projects",
+    "Category": [
+      "DevOps"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Automated CI/CD pipeline service."
+  },
+  {
+    "id": "Azure DevOps",
+    "Category": [
+      "DevOps",
+      "Hybrid + multicloud"
+    ],
+    "shared Responsibility model": "SaaS",
+    "Short explanation": "Cloud-based service for collaboration on software development projects."
+  },
+  {
+    "id": "Azure DevTest Labs",
+    "Category": [
+      "DevOps"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Test environments on demand."
+  },
+  {
+    "id": "Azure Digital Twins",
+    "Category": [
+      "IOT",
+      "Mixed reality"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "IoT service for creating digital twins."
+  },
+  {
+    "id": "Azure Active Directory",
+    "Category": [
+      "Hybrid + multicloud"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Identity and access management service."
+  },
+  {
+    "id": "ExpressRoute",
+    "Category": [
+      "Hybrid + multicloud"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Dedicated private network connection to Azure."
+  },
+  {
+    "id": "Microsoft Sentinel",
+    "Category": [
+      "Hybrid + multicloud"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "SIEM and SOAR security service."
+  },
+  {
+    "id": "Azure DNS",
+    "Category": [
+      "Networking ",
+      "Web Application"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Managed DNS service."
+  },
+  {
+    "id": "Azure Stack Hub",
+    "Category": [
+      "Hybrid + multicloud"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Extension of Azure to on-premises environments."
+  },
+  {
+    "id": "Azure Arc",
+    "Category": [
+      "Hybrid + multicloud"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Manage and run resources across on-premises, multi-cloud, and edge environments."
+  },
+  {
+    "id": "Azure Kubernetes Service (AKS)",
+    "Category": [
+      "Compute",
+      "Containers"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Managed Kubernetes service."
+  },
+  {
+    "id": "SQL Database",
+    "Category": [
+      "Hybrid + multicloud"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Managed relational database service."
+  },
+  {
+    "id": "Azure Stack",
+    "Category": [
+      "Hybrid + multicloud"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Extension of Azure to on-premises environments."
+  },
+  {
+    "id": "Azure Stack HCI",
+    "Category": [
+      "Hybrid + multicloud"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Hyperconverged infrastructure service."
+  },
+  {
+    "id": "Azure Active Directory External Identities",
+    "Category": [
+      "Identity"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Identity service for external users."
+  },
+  {
+    "id": "Microsoft Entra Domain Services",
+    "Category": [
+      "Identity"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service to join virtual machines to a domain in Azure."
+  },
+  {
+    "id": "Logic Apps",
+    "Category": [
+      "Integration"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Automate workflows and integrate apps and data."
+  },
+  {
+    "id": "Service Bus",
+    "Category": [
+      "Integration"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Messaging service for enterprise applications."
+  },
+  {
+    "id": "Azure Lab Services",
+    "Category": [
+      "DevOps",
+      "Virtual Desktop"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Managed labs for classroom and training environments."
+  },
+  {
+    "id": "Event Grid",
+    "Category": [
+      "Integration"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Event routing service."
+  },
+  {
+    "id": "Azure Load Testing",
+    "Category": [
+      "DevOps",
+      "Web Application"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Cloud-based performance testing service."
+  },
+  {
+    "id": "Azure IoT Central",
+    "Category": [
+      "IOT"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Fully managed IoT software-as-a-service."
+  },
+  {
+    "id": "Azure IoT Edge",
+    "Category": [
+      "IOT"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Edge computing service for IoT devices."
+  },
+  {
+    "id": "Azure IoT Hub",
+    "Category": [
+      "IOT"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Managed service for IoT device connectivity."
+  },
+  {
+    "id": "Azure IoT Operations",
+    "Category": [
+      "IOT"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for managing and maintaining IoT devices."
+  },
+  {
+    "id": "Azure RTOS",
+    "Category": [
+      "IOT"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Real-time operating system for IoT devices."
+  },
+  {
+    "id": "Azure Sphere",
+    "Category": [
+      "IOT"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Secure microcontroller platform for IoT devices."
+  },
+  {
+    "id": "Azure Machine Learning",
+    "Category": [
+      "AI + machine learning",
+      "Analytics"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Cloud-based machine learning service."
+  },
+  {
+    "id": "Azure Maps",
+    "Category": [
+      "Mobile Applications",
+      "Web Application"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Location intelligence service."
+  },
+  {
+    "id": "Automation",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Workflow automation service."
+  },
+  {
+    "id": "Azure Advisor",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Personalized best practices recommendation service."
+  },
+  {
+    "id": "Azure Resource Manager",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Resource management service for Azure."
+  },
+  {
+    "id": "Azure Resource Mover",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for moving resources between Azure regions."
+  },
+  {
+    "id": "Scheduler",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Job scheduling service."
+  },
+  {
+    "id": "Cloud Shell",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Interactive shell environment for managing Azure resources."
+  },
+  {
+    "id": "Azure Managed Applications",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for creating and managing Azure resource groups as a single application."
+  },
+  {
+    "id": "Microsoft Azure portal",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Web-based Azure management portal."
+  },
+  {
+    "id": "Azure mobile app",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Mobile app for managing Azure resources."
+  },
+  {
+    "id": "Azure Lighthouse",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Cross-tenant management solution for service providers."
+  },
+  {
+    "id": "Azure Monitor",
+    "Category": [
+      "DevOps",
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Comprehensive monitoring service for Azure resources."
+  },
+  {
+    "id": "Azure Policy",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Policy-based governance service for Azure resources."
+  },
+  {
+    "id": "Azure Blueprints",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for creating, managing, and deploying governed environments in Azure."
+  },
+  {
+    "id": "Azure Managed Grafana",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Managed instance of Grafana for Azure."
+  },
+  {
+    "id": "Update management center",
+    "Category": [
+      "Management"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Centralized update management service."
+  },
+  {
+    "id": "Azure Media Player",
+    "Category": [
+      "Media"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Video player for web and mobile apps."
+  },
+  {
+    "id": "Content Protection",
+    "Category": [
+      "Media"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Protect digital content."
+  },
+  {
+    "id": "Live and On-Demand Streaming",
+    "Category": [
+      "Media"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Streaming service for live and on-demand video."
+  },
+  {
+    "id": "Azure Content Delivery Network",
+    "Category": [
+      "Media"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Content delivery network service."
+  },
+  {
+    "id": "Encoding",
+    "Category": [
+      "Media"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Media encoding service."
+  },
+  {
+    "id": "Azure Database Migration Service",
+    "Category": [
+      "Migration"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Migrate databases to Azure with minimal downtime."
+  },
+  {
+    "id": "Azure Site Recovery",
+    "Category": [
+      "Migration"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Disaster recovery service for virtual machines and physical servers."
+  },
+  {
+    "id": "Azure\u00a0Data Box",
+    "Category": [
+      "Migration"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Petabyte-scale data transfer service."
+  },
+  {
+    "id": "Azure Migrate",
+    "Category": [
+      "Migration"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Lift and shift migration service."
+  },
+  {
+    "id": "Azure Operator 5G Core",
+    "Category": [
+      "Mobile Applications",
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for deploying and managing 5G networks."
+  },
+  {
+    "id": "Azure Remote Rendering",
+    "Category": [
+      "Mixed reality"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for high-quality 3D content streaming."
+  },
+  {
+    "id": "Azure Operator Call Protection",
+    "Category": [
+      "AI + machine learning",
+      "Mobile Applications"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for protecting calls and messages."
+  },
+  {
+    "id": "Spatial Anchors",
+    "Category": [
+      "Mixed reality"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Create mixed reality experiences."
+  },
+  {
+    "id": "Notification Hubs",
+    "Category": [
+      "Mobile Applications"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Push notification service for mobile apps."
+  },
+  {
+    "id": "Xamarin",
+    "Category": [
+      "Mobile Applications"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Cross-platform mobile app development platform."
+  },
+  {
+    "id": "Azure Service Fabric",
+    "Category": [
+      "Compute",
+      "Containers"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Distributed systems platform for building microservices-based applications."
+  },
+  {
+    "id": "Azure SQL Edge",
+    "Category": [
+      "Hybrid + multicloud",
+      "IOT"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Edge computing service for SQL Server."
+  },
+  {
+    "id": "Azure Virtual Network",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "IaaS",
+    "Short explanation": "Isolated and secure network infrastructure."
+  },
+  {
+    "id": "Azure Load Balancer",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Load balancer service for distributing inbound network traffic."
+  },
+  {
+    "id": "Azure Stack Edge",
+    "Category": [
+      "Hybrid + multicloud",
+      "Storage"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Edge computing platform."
+  },
+  {
+    "id": "Azure Firewall",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Managed network security service."
+  },
+  {
+    "id": "Azure Firewall Manager",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Centralized security policy management for Azure Firewall."
+  },
+  {
+    "id": "Azure Bastion",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Secure and seamless RDP/SSH access to Azure VMs."
+  },
+  {
+    "id": "Azure Private Link",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for securely connecting Azure services to virtual networks."
+  },
+  {
+    "id": "Azure Time Series Insights",
+    "Category": [
+      "Analytics",
+      "IOT"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Analyze and visualize time-series data."
+  },
+  {
+    "id": "Azure Network Function Manager",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Manage and deploy network functions in Azure."
+  },
+  {
+    "id": "Azure ExpressRoute",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Dedicated private network connection to Azure."
+  },
+  {
+    "id": "Azure Virtual WAN",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Networking service for connecting multiple branch offices to Azure."
+  },
+  {
+    "id": "Azure VPN Gateway",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "VPN service for securely connecting on-premises networks to Azure."
+  },
+  {
+    "id": "Routing preference",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Optimize routing for multi-branch offices."
+  },
+  {
+    "id": "Azure Private 5G Core",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Private 5G network core service."
+  },
+  {
+    "id": "Azure CDN",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Content delivery network service."
+  },
+  {
+    "id": "Azure Front Door",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Global, scalable entry point for web applications."
+  },
+  {
+    "id": "Azure Application Gateway",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Web traffic load balancer."
+  },
+  {
+    "id": "Azure Web Application Firewall",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Web application firewall service."
+  },
+  {
+    "id": "Internet Analyzer",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Network performance monitoring and troubleshooting service."
+  },
+  {
+    "id": "Azure NAT Gateway",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Network address translation service."
+  },
+  {
+    "id": "Azure Programmable Connectivity",
+    "Category": [
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Secure and scalable networking service."
+  },
+  {
+    "id": "Kinect DK",
+    "Category": [
+      "AI + machine learning",
+      "Mixed reality"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Developer kit for creating AI-powered experiences."
+  },
+  {
+    "id": "Key Vault",
+    "Category": [
+      "Security"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Securely store and manage sensitive information."
+  },
+  {
+    "id": "Media Services",
+    "Category": [
+      "Media",
+      "Web Application"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Media encoding, streaming, and content protection service."
+  },
+  {
+    "id": "Azure Information Protection",
+    "Category": [
+      "Security"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Secure sensitive data and meet compliance requirements."
+  },
+  {
+    "id": "Microsoft Azure Attestation",
+    "Category": [
+      "Security"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for verifying the trustworthiness of platform and device claims."
+  },
+  {
+    "id": "Azure Confidential Ledger",
+    "Category": [
+      "Security"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Confidential computing platform."
+  },
+  {
+    "id": "Microsoft Defender for IoT",
+    "Category": [
+      "Security"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "IoT security service."
+  },
+  {
+    "id": "Azure Disk Storage",
+    "Category": [
+      "Storage"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Managed disks for virtual machines."
+  },
+  {
+    "id": "Azure Blob Storage",
+    "Category": [
+      "Storage"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Object storage service for storing large amounts of unstructured data."
+  },
+  {
+    "id": "Azure Data Lake Storage",
+    "Category": [
+      "Storage"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Scalable and secure data lake storage."
+  },
+  {
+    "id": "Azure Files",
+    "Category": [
+      "Storage"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Fully managed file shares in the cloud."
+  },
+  {
+    "id": "Azure NetApp Files",
+    "Category": [
+      "Storage"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Enterprise-grade file shares powered by NetApp."
+  },
+  {
+    "id": "Azure File Sync",
+    "Category": [
+      "Storage"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Sync on-premises file servers with Azure Files."
+  },
+  {
+    "id": "Microsoft Cost Management",
+    "Category": [
+      "Management",
+      "Migration"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Service for managing and optimizing Azure costs."
+  },
+  {
+    "id": "Azure Data Box",
+    "Category": [
+      "Storage"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Petabyte-scale data transfer service."
+  },
+  {
+    "id": "Azure Elastic SAN",
+    "Category": [
+      "Storage"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Scalable and highly available block storage service."
+  },
+  {
+    "id": "Azure Container Storage",
+    "Category": [
+      "Storage"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Secure, scalable, and highly available storage for containers."
+  },
+  {
+    "id": "Azure Storage Actions",
+    "Category": [
+      "Storage"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Automate workflows with Azure Storage triggers and actions."
+  },
+  {
+    "id": "Azure Virtual Desktop",
+    "Category": [
+      "Virtual Desktop"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Cloud-based virtual desktop infrastructure."
+  },
+  {
+    "id": "Microsoft Defender for Cloud",
+    "Category": [
+      "Hybrid + multicloud",
+      "Security"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Unified cloud security platform."
+  },
+  {
+    "id": "Content Delivery Network",
+    "Category": [
+      "Web Application"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Content delivery network service."
+  },
+  {
+    "id": "Network Watcher",
+    "Category": [
+      "Management",
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "Network performance monitoring and diagnostics service."
+  },
+  {
+    "id": "Traffic Manager",
+    "Category": [
+      "Management",
+      "Networking "
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "DNS-based traffic load balancer."
+  },
+  {
+    "id": "Azure Web PubSub",
+    "Category": [
+      "Web Application"
+    ],
+    "shared Responsibility model": "PaaS",
+    "Short explanation": "WebSocket service for real-time web applications."
+  }
+]
