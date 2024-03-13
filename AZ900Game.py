@@ -34,6 +34,7 @@ def main():
         wrong_answers = []
 
         for service in selected_services:
+            correct_model = None  # Initialize correct_model before the loop
             print(f"\nYou have {questions_left} questions left.")
             questions_left -= 1
 
